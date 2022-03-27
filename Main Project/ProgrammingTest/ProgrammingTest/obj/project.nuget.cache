@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MgusHcBKiuxp0r+/XsmNhRZxDWF7ZadzolxQ7dbBhLIkt0zQnKJOsXp6vmUPhaAcsKyphlkZJh84RIpczHtLgQ==",
+  "success": true,
+  "projectFilePath": "E:\\Workstation\\Dev\\ASP.Net Core C#\\Programming Test C1002 _ Sayed Hossain _ Bangladesh\\1. Main Project\\ProgrammingTest\\ProgrammingTest\\ProgrammingTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sayed.hossain\\.nuget\\packages\\grpc.core\\2.45.0\\grpc.core.2.45.0.nupkg.sha512",
+    "C:\\Users\\sayed.hossain\\.nuget\\packages\\grpc.core.api\\2.45.0\\grpc.core.api.2.45.0.nupkg.sha512",
+    "C:\\Users\\sayed.hossain\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,46 @@
+﻿@page
+@model ReportModel
+@{
+    ViewData["Title"] = "Show Output";
+}
+
+<div class="text-center main-container mx-auto border-0">
+    <div class="row no-print">
+        <div class="col-sm text-left">
+            <a class="btn btn-sm btn-outline-info" href="/home" role="button"><< Goto Home Page</a>
+        </div>
+        <div class="col-sm text-right">
+            <a class="btn btn-sm btn-outline-primary printPage cursor-pointer" role="button">Print</a>
+        </div>
+    </div>
+    <br />
+    <div class="panel">
+        <table class="table table-bordered" style="border: 1px solid #ddd !important;">
+            <thead>
+                <tr>
+                    <th>% Numeric</th>
+                    <th>% Alphanumeric</th>
+                    <th>% Float</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td id="tdNumeric">&nbsp;</td>
+                    <td id="tdAlphanumeric">&nbsp;</td>
+                    <td id="tdFloat">&nbsp;</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="panel">
+        <div class="text-left" id="tblReportDetailsData"></div>
+    </div>
+    <br />
+    <div class="row no-print">
+        <div class="col-sm text-center">
+            <a class="btn btn-sm btn-outline-danger cursor-pointer" id="btnDeleteFileData" onclick="DeleteFileAllData()" role="button">Delete Output File Data</a>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/report.js"></script>

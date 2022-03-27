@@ -1,0 +1,172 @@
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.exe
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.deps.json
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.runtimeconfig.json
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.runtimeconfig.dev.json
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.dll
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.pdb
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.Views.dll
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.Views.pdb
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.csprojAssemblyReference.cache
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.csproj.CoreCompileInputs.cache
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.MvcApplicationPartsAssemblyInfo.cache
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorAssemblyInfo.cache
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorAssemblyInfo.cs
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.AssemblyInfoInputs.cache
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.AssemblyInfo.cs
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.TagHelpers.input.cache
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.TagHelpers.output.cache
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorCoreGenerate.cache
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorTargetAssemblyInfo.cache
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorTargetAssemblyInfo.cs
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.Views.pdb
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\staticwebassets\ProgrammingTest.StaticWebAssets.Manifest.cache
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\staticwebassets\ProgrammingTest.StaticWebAssets.xml
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.dll
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.pdb
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.genruntimeconfig.cache
+E:\Workstation\Dev\ASP.Net Core C#\16.02.2022\MyWork\Razor\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.csproj.CopyComplete
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.exe
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.deps.json
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.runtimeconfig.json
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.runtimeconfig.dev.json
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.pdb
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.Views.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.Views.pdb
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.csprojAssemblyReference.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorAssemblyInfo.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorAssemblyInfo.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.AssemblyInfoInputs.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.AssemblyInfo.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.TagHelpers.input.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.TagHelpers.output.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorCoreGenerate.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorTargetAssemblyInfo.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorTargetAssemblyInfo.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.Views.pdb
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\staticwebassets\ProgrammingTest.StaticWebAssets.Manifest.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\staticwebassets\ProgrammingTest.StaticWebAssets.xml
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.pdb
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.genruntimeconfig.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.csproj.CopyComplete
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.csproj.CoreCompileInputs.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.MvcApplicationPartsAssemblyInfo.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Report.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.exe
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.deps.json
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.runtimeconfig.json
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.runtimeconfig.dev.json
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.pdb
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.Views.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.Views.pdb
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.csprojAssemblyReference.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.csproj.CoreCompileInputs.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.MvcApplicationPartsAssemblyInfo.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorAssemblyInfo.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorAssemblyInfo.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.AssemblyInfoInputs.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.AssemblyInfo.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.TagHelpers.input.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.TagHelpers.output.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorCoreGenerate.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Report.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorTargetAssemblyInfo.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorTargetAssemblyInfo.cs
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.Views.pdb
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.csproj.CopyComplete
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\staticwebassets\ProgrammingTest.StaticWebAssets.Manifest.cache
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\staticwebassets\ProgrammingTest.StaticWebAssets.xml
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.dll
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.pdb
+E:\Workstation\Dev\ASP.Net Core C#\26.03.2022\Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.genruntimeconfig.cache
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.exe
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.deps.json
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.runtimeconfig.json
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.runtimeconfig.dev.json
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.dll
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.pdb
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.Views.dll
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\ProgrammingTest.Views.pdb
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.csprojAssemblyReference.cache
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.csproj.CoreCompileInputs.cache
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.MvcApplicationPartsAssemblyInfo.cache
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorAssemblyInfo.cache
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorAssemblyInfo.cs
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.AssemblyInfoInputs.cache
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.AssemblyInfo.cs
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.TagHelpers.input.cache
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.TagHelpers.output.cache
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorCoreGenerate.cache
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Report.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorTargetAssemblyInfo.cache
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.RazorTargetAssemblyInfo.cs
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.Views.pdb
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.csproj.CopyComplete
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\staticwebassets\ProgrammingTest.StaticWebAssets.Manifest.cache
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\staticwebassets\ProgrammingTest.StaticWebAssets.xml
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.dll
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.pdb
+E:\Workstation\Dev\ASP.Net Core C#\Programming Test C1002 _ Sayed Hossain _ Bangladesh\1. Main Project\ProgrammingTest\ProgrammingTest\obj\Debug\netcoreapp3.1\ProgrammingTest.genruntimeconfig.cache

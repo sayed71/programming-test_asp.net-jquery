@@ -1,0 +1,75 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center main-container mx-auto">
+    <div class="row">
+        <div class="col-sm">
+            <div class="form-check text-left">
+                <input class="form-check-input" type="checkbox" id="chkNumericNo" name="chkNumericNo" value="Numeric" checked>
+                <label class="form-check-label" data-labelfor="chkNumericNo">Numeric</label>
+            </div>
+            <div class="form-check text-left">
+                <input class="form-check-input" type="checkbox" id="chkAlphanumeric" name="chkAlphanumeric" value="Alphanumeric" checked>
+                <label class="form-check-label" data-labelfor="chkAlphanumeric">Alphanumeric</label>
+            </div>
+            <div class="form-check text-left">
+                <input class="form-check-input" type="checkbox" id="chkFloatNo" name="chkFloatNo" value="Float" checked>
+                <label class="form-check-label" id="lblFloatNo" data-labelfor="chkFloatNo">Float</label>
+            </div>
+        </div>
+        <div class="col-sm">
+            <div class="form-check">
+                <label class="text-center">Size of the output file (KB)</label>
+                <input type="text" class="d-inline form-control form-control-sm text-center w-50" id="txtOutputFileSize" readonly>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="form-check">
+            <img class="btn-img-size cursor-pointer" id="btnStart" src="~/icon/icon-start.png" />
+            <img class="btn-img-size cursor-pointer" id="btnEnd" src="~/icon/icon-end.png" />
+        </div>
+    </div>
+    <br />
+    <div class="row text-left pt-1">
+        <div class="col-sm">
+            Counter 1 (Numeric)
+        </div>
+        <div class="col-sm">
+            <input type="text" class="form-control form-control-sm" id="txtCounter1NumericNo" readonly>
+        </div>
+    </div>
+    <div class="row text-left pt-1">
+        <div class="col-sm">
+            Counter 2 (Alphanumeric)
+        </div>
+        <div class="col-sm">
+            <input type="text" class="form-control form-control-sm" id="txtCounter2Alphanumeric" readonly>
+        </div>
+    </div>
+    <div class="row text-left pt-1">
+        <div class="col-sm">
+            Counter 3 (Float)
+        </div>
+        <div class="col-sm">
+            <input type="text" class="form-control form-control-sm" id="txtCounter3FloatNo" readonly>
+        </div>
+    </div>
+    <br />
+    <div class="row text-left pt-1">
+        <div class="col-sm text-center">
+            <img class="cursor-pointer h-75" id="btnGenerateReport" src="~/icon/icon-btn-report.png" />
+        </div>
+    </div>
+    <div class="row text-center pt-1">
+        <div class="col-sm text-center" id="msg">
+                
+        </div>
+    </div>
+</div>
+
+<script src="~/js/site.js"></script>

@@ -1,0 +1,26 @@
+﻿/****Container******/
+.main-container {
+    margin-top: 50px;
+    border: 1px #f9f3f3 solid;
+    padding: 10px;
+    max-width: 550px;
+}
+
+.btn-img-size {
+    height: 40px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+#msg{
+    color: red;
+}
+
+/****Setup Print Page******/
+@media print {
+    .no-print {
+        visibility: hidden;
+    }
+}
