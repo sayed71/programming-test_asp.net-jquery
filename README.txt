@@ -20,3 +20,8 @@
 10. Also Work - Design, Validation, Use Masterpage 
 11. Demo Output (Project Output Folder) - Optional 
 
+
+** Developed By:
+> Name: Kazi Sayed Hossain
+> Email: sayedmasud69@gmail.com
+> Address: Dhaka, Bangladesh
