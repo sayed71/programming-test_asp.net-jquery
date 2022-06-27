@@ -20,12 +20,3 @@
 10. Also Work - Design, Validation, Use Masterpage 
 11. Demo Output (Project Output Folder) - Optional 
 
-
-
-
-Work By:
-> Name: Kazi Sayed Hossain
-> Email: sayedmasud69@gmail.com
-> Mobile No: +88-01843493081 (Whats App)
-> Address: Dhaka, Bangladesh
-> Submit Date: 27.03.2022
