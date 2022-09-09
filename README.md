@@ -9,7 +9,7 @@
 
 
 ## Project Short Description:
-- Output txt File (wwwRoot Folder)
+- Output ".txt" File (wwwRoot Folder)
 - Custom Routing (Startup.cs)
 - Main Page (Index.cshtml) - Pages Folder
 - 2nd Page - Report (Report.cshtml) - Pages Folder
