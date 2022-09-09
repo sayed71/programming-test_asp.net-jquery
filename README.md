@@ -1,5 +1,5 @@
 # Project Name: Programming Test C1002
-![image](https://user-images.githubusercontent.com/83280369/189427266-247364a4-0015-41ae-8a62-6bc193c42cf9.png)
+![image](https://user-images.githubusercontent.com/83280369/189431963-53597e04-54eb-499d-b061-239c9f8349e0.png)
 
 
 ## Development Technology:
