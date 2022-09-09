@@ -1,13 +1,13 @@
 # Project Name: Programming Test C1002
 ---------------------------------------
 
-** Development Technology:
+## Development Technology:
 01. ASP.Net Core C# (Server Side Scripting)
 02. jQuery with Ajax (Client Side Scripting)
 03. Design (Bootstrap, HTML, CSS)
 
 
-** Project Short Description:
+## Project Short Description:
 01. Output txt File (wwwRoot Folder)
 02. Custom Routing (Startup.cs)
 03. Main Page (Index.cshtml) - Pages Folder
@@ -20,8 +20,3 @@
 10. Also Work - Design, Validation, Use Masterpage 
 11. Demo Output (Project Output Folder) - Optional 
 
-
-** Developed By:
-> Name: Kazi Sayed Hossain
-> Email: sayedmasud69@gmail.com
-> Address: Dhaka, Bangladesh
