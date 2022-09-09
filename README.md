@@ -19,4 +19,4 @@
 - Working with File Operation (ASP.Net Core C#)
 - Remove Option (Existing Data)
 - Also Work - Design, Validation, Use Masterpage 
-- Demo Output (Project Output Folder) - Optional 
+- Demo Output (Project Output Folder) 
